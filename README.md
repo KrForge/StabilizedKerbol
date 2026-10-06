@@ -1,6 +1,9 @@
 # StabilizedKerbol
 Slight adjustment to the Kerbolar system to have more stable orbits under N-body physics
 
+# Dependencies
+* [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases)
+
 # Changes from stock
 Minmus
 * More inclined (11.8°)
