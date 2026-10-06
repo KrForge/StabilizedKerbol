@@ -2,7 +2,7 @@
 Slight adjustment to the Kerbolar system to have more stable orbits under N-body physics
 
 # Dependencies
-* [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases) and it's dependencies
+* [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases) and its dependencies
 
 # Changes from stock
 ### Minmus
