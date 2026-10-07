@@ -22,8 +22,36 @@ List of changes:
 * Much tighter orbit
 * Slightly modified description
 
+## Jool System
 ### Vall:
 Repeated encounters with Tylo and Laythe lead to Vall's orbit being destabilized and eventually ejected.
 
 List of changes:
-* Pushed outwards, now is between Bop and Pol, rather than Laythe and Tylo
+* Pushed outwards
+* Slightly inclined (1.41°)
+* Slightly Eccentric
+
+### Tylo
+The bully of the Jool system, too close to Vall and ruins everything.
+
+List of changes:
+* Pushed outwards
+* Slightly more inclined (0.0543°)
+* Slightly Eccentric
+
+### Bop
+Slowly gets destabilized over time when the other moons align.
+
+List of changes:
+* Pushed outwards
+* Highly inclined (36.1°)
+* Less eccentric
+
+### Pol
+Slowly gets destabilized over time when the other moons align.
+
+List of changes:
+* Pushed outwards
+* More inclined (12°)
+* More eccentric
+* Retrograde
